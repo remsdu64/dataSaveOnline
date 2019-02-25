@@ -1,6 +1,3 @@
 # dataSaveOnline
 
-Bonjour Léo, petit être de lumière !
-Yo
-
-test1
+Ok, c'est le fichier de base!
